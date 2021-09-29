@@ -1,2 +1,2 @@
-# Nutzwerverwaltung-Sch-tzenverein
+# Nutzwerverwaltung-Schuetzenverein
 Nutzerverwaltung für einen fiktiven Verein (Datenbank).
