@@ -6,7 +6,7 @@
 <div class="container">
     <div class="col-12">
         <h1 class="text-center">Mitglieder Liste</h1><br><br><br>
-        <table class="table table-striped table-bordered table-responsive" id="userTable">
+        <table class="table table-striped table-bordered" id="userTable">
             <thead>
                 <tr>
                     <th>Vorname</th>
